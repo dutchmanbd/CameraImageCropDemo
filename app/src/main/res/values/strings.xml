@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraImageCropDemo</string>
+    <string name="txt_pickup_camera">Pickup Camera Image</string>
+</resources>
